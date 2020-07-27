@@ -1,0 +1,31 @@
+
+.title{
+    font-size: 3rem;
+    font: Helvetica, sans-serif;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    color: yellow;
+}
+.item{
+    text-transform: capitalize;
+    color:yellow;
+}
+.edit-button{
+background-color: rgba(99, 174, 224, 0.685);
+color: #fff;
+text-transform: uppercase;
+}
+.checkedbox-button{
+    background-color: rgb(43, 211, 43);
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.item-name, .quantity{
+    font-size: 2rem;
+    color:yellow;
+  
+}
+.quantity{
+    font-size: 1rem;
+}
